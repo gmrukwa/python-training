@@ -1,6 +1,9 @@
 # python-training
 Training materials for Python course for BioSKN.
 
+Check the [cheatsheet](cheatsheet.pdf) for quick reference on basic types
+operations.
+
 # Prerequisities
 
 * python 3
