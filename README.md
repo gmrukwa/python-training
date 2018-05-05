@@ -6,6 +6,8 @@ Training materials for Python course for BioSKN.
 * python 3
 * pip 3
 
+You can install [Miniconda](https://conda.io/miniconda.html) for this purpose.
+
 # How to start?
 
 1. open console in repository root directory
